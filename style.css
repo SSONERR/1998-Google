@@ -1,0 +1,25 @@
+.gri {
+    background-color: rgb(217, 222, 226) ;
+    padding-bottom: 3px;
+    height: 80px;
+    width: 1510px;
+    margin-left: 200px;
+}
+.a {
+    background-color: aqua;
+   height: 100px;
+   width: 500px;
+   margin-left: 200px;
+   float: left;
+   margin-top: 3px;
+   text-align: center;
+}
+.ab {
+    text-align: center;
+    background-color: aqua;
+   height: 100px;
+   width: 500px;
+   margin-left: 5px;
+   float: left;
+   margin-top: 3px;
+}
